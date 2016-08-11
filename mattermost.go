@@ -1569,7 +1569,7 @@ func getMockContext() *api.Context {
 var usage = `Mattermost commands to help configure the system
 
 NAME:
-    platform -- platform configuation tool
+    platform -- platform configuration tool
 
 USAGE:
     platform [options]
